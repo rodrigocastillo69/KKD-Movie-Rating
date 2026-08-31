@@ -15,6 +15,7 @@ Fuente: Dataset en Kaggle
 Entorno: Google Colab / Python (Pandas, Scikit-Learn)
 
 Integrantes
+
 Rodrigo Castillo
 
 Josehp Sandoval
