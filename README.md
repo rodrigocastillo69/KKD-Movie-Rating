@@ -16,8 +16,7 @@ Entorno: Google Colab / Python (Pandas, Scikit-Learn)
 
 Integrantes
 
-Rodrigo Castillo
+Alonso Castillo
 
 Josehp Sandoval
-
-Yohance Garret Pizzas
+
